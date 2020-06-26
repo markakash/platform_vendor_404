@@ -31,7 +31,6 @@ PRODUCT_PACKAGES += \
 
 # P404 Packages
 PRODUCT_PACKAGES += \
-    P404Launcher \
     AbleMusic \
     Covers \
     Longshot \
@@ -43,6 +42,9 @@ PRODUCT_PACKAGES += \
 
 # Project 404 Overlays
 PRODUCT_PACKAGES += p404-overlays
+
+# Lawnchair
+PRODUCT_PACKAGES += Lawnchair
 
 # FontOverlays
 PRODUCT_PACKAGES += \

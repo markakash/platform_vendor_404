@@ -92,4 +92,7 @@
     <!-- Turbo -->
     <string name="config_batterySaverScheduleProvider">com.google.android.apps.turbo</string>
 
+    <!-- Lawnstep -->
+    <string name="config_recentsComponentName" translatable="false">ch.deletescape.lawnchair.ci/com.android.quickstep.RecentsActivity</string>
+
 </resources>

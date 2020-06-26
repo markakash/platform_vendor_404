@@ -23,6 +23,11 @@ include vendor/404/configs/fonts.mk
 # Common overlays
 DEVICE_PACKAGE_OVERLAYS += vendor/404/overlay
 
+# Lawnchair
+PRODUCT_COPY_FILES += \
+    vendor/404/configs/permissions/privapp-permissions-lawnchair.xml:system/etc/permissions/privapp-permissions-lawnchair.xml \
+    vendor/404/configs/sysconfig/lawnchair-hiddenapi-package-whitelist.xml:system/etc/sysconfig/lawnchair-hiddenapi-package-whitelist.xml
+
 # Markup Google
 PRODUCT_COPY_FILES += \
     vendor/404/prebuilt/lib/libsketchology_native.so:system/lib/libsketchology_native.so \
