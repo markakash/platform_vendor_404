@@ -25,11 +25,7 @@ PRODUCT_PACKAGES += \
     ntfsfix \
     ntfs-3g
 
-# Angle
-PRODUCT_PACKAGES += \
-    ANGLE
-
-# P404 Packages
+# 404 Packages
 PRODUCT_PACKAGES += \
     AbleMusic \
     Covers \
@@ -40,18 +36,22 @@ PRODUCT_PACKAGES += \
     TurboPrebuilt \
     P404ThemesStub
 
-# Project 404 Overlays
+# 404 Overlays
 PRODUCT_PACKAGES += p404-overlays
 
-# Lawnchair
-PRODUCT_PACKAGES += Lawnchair
+# Angle
+PRODUCT_PACKAGES += \
+    ANGLE
+
+# Device Personalization Services
+PRODUCT_PACKAGES += MatchmakerPrebuilt
 
 # FontOverlays
 PRODUCT_PACKAGES += \
     FontGoogleSansOverlay
 
-# Device Personalization Services
-PRODUCT_PACKAGES += MatchmakerPrebuilt
+# Lawnchair
+PRODUCT_PACKAGES += Lawnchair
 
 # Offline charger
 PRODUCT_PACKAGES += \
