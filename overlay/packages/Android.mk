@@ -20,7 +20,7 @@ LOCAL_REQUIRED_MODULES := \
     AccentColorGirlyPinkOverlay \
     AccentColorFerrariRedOverlay \
     AccentColorOrangenessOverlay \
-    AccentColorPurpleismOverlay \
+    AccentColorUfoGreenOverlay \
     AccentColorSpotifyGreenOverlay \
     PrimaryColorCharcoalGreyOverlay \
     PrimaryColorDarkBlueOverlay \

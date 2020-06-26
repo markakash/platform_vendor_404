@@ -15,12 +15,12 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_PACKAGE_NAME := AccentColorPurpleismOverlay
+LOCAL_PACKAGE_NAME := AccentColorUfoGreenOverlay
 LOCAL_MODULE_OWNER := p404
 LOCAL_MODULE_TAGS := optional
 LOCAL_PRODUCT_MODULE := true
 LOCAL_CERTIFICATE := platform
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
-LOCAL_RRO_THEME := AccentColorPurpleism
+LOCAL_RRO_THEME := AccentColorUfoGreen
 LOCAL_SDK_VERSION := current
 include $(BUILD_RRO_PACKAGE)

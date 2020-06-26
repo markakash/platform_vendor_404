@@ -16,6 +16,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Red accent color name application label. [CHAR LIMIT=50] -->
-    <string name="accent_color_purpleism_overlay" translatable="false">Purpleism</string>
+    <string name="accent_color_ufogreen_overlay" translatable="false">Ufo Green</string>
 
 </resources>
